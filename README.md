@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Por 1 ano e 6 meses estive atuando em atividades de ensino, pesquisa e extensão enquanto integrante do PET Engenharia Elétrica na UFES. Atualmente estagio na empresa Langamer Engenharia, onde participo da elaboração de projetos elétricos, sobretudo residenciais e comerciais. Desenvolver projetos elétricos sempre despertou meu interesse e agora com o estágio tenho a cada dia mais certeza do meu gosto pela área. Meu interesse por programação têm aumentado e busco sempre me aprimorar, com foco em VBA, Python e, recentemente, JavaScript. 😄
 <!--
 **amandabassani/amandabassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
