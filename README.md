@@ -14,8 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Mands-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mands-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">  
-  <img align="center" alt="Mands-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">  
-  <img align="center" alt="Mands-VBA" height="30" width="40" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+vba-1324451511940031054.png">
+  <img align="center" alt="Mands-Matlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Mands-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
 
   </div>
